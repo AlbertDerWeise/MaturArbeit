@@ -66,7 +66,7 @@ ____
         }
         ```
 
-        Replace `'your_client_id'`, `'your_client_secret'`, `'your_reddit_username'`, `'your_reddit_password'`, `'your_openai_api_key'`, `'your_openai_prompt'`, and `'your_second_openai_prompt'` with your actual Reddit API credentials, OpenAI API key, and Eleven Labs API keys.
+        Replace `'your_client_id'`, `'your_client_secret'`, `'your_reddit_username'`, `'your_reddit_password'`, `'your_openai_api_key'`, `'your_openai_prompt'`, and `'your_second_openai_prompt'` with your actual Reddit API credentials, OpenAI API key, and LLM prompts
 
 
 4. **Setup Tesseract OCR (if necessary)**
