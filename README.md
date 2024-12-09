@@ -3,7 +3,7 @@ __________________________
 
 ## About
 
-**NGR** is a Reddit post classification tool designed to classify posts using artificial intelligence. The tool analyzes Reddit posts and assigns tags based on various categories which are to be denoted as the following ones: `school`, `games`, `work`, `family`, `everyday_life/health`, `money`, `relationships`, `animals`, `sports`, `science/technology`, `clothing`, `mental_state`, `literature/television`, `nostalgia`, `drugs`, `celebrities`, `society_and_social_procedures`, `gender_specific`, `common_relatability`, `politics`, `sex`, `music/art`, `ethnicity/culture/languages`, `political_incorrectness`, and `misc`.
+**NGR** is a Reddit post classification tool designed to classify posts using artificial intelligence as well as deterministic algorithms. The tool analyzes Reddit posts and assigns tags based on various categories which are to be denoted as the following ones: `school`, `games`, `work`, `family`, `everyday_life/health`, `money`, `relationships`, `animals`, `sports`, `science/technology`, `clothing`, `mental_state`, `literature/television`, `nostalgia`, `drugs`, `celebrities`, `society_and_social_procedures`, `gender_specific`, `common_relatability`, `politics`, `sex`, `music/art`, `ethnicity/culture/languages`, `political_incorrectness`, and `misc`.
 
 Additionally, the tool optimizes viewership based on given feedback (such as likes, views, comments on videos) by adjusting and optimizing the tags present in future videos. Currently, it is fresh out of testing stage, leaving the code unaesthetic, patchworked, and purely functional. If you must use this tool, consider taking the time to making it sightly. 
 ____
