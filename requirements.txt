@@ -1,0 +1,15 @@
+praw
+numpy
+pandas
+matplotlib
+seaborn
+selenium
+openai
+pytesseract
+pillow==9.5.0
+moviepy
+gtts
+ffmpeg-python
+tortoise-tts
+elevenlabs
+tts
